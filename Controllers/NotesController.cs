@@ -50,7 +50,7 @@ namespace KCPM_DotCover.Controllers
 
         }
         // PUT: api/Notes/5
-        [HttpPut("{id}")]
+        [HttpPost("{id}")]
         public void Update(int id, [FromBody] Note value)
         {
             if (ModelState.IsValid)

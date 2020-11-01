@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vxUKXGgcYXwQswZ4qCxV3aiSHSuAN2yBZhdBpwisnE7m3PnCnntcEUgDcXRjgp2aIz8t2o5ahaONpDA+6QFEGA==",
+  "dgSpecHash": "UChdC/f5QUuunqhPr0w2EH7DUda4hHVSFsj+BkGY9ZTb+R5+SrZwQ7cOb8JKZO3Ppg4H2I6MR7sllROIKMtauQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HONGMO\\source\\repos\\KCPM_DotCover\\KCPM_DotCover\\KCPM_DotCover.csproj",
+  "projectFilePath": "D:\\FIle\\KCPM\\KCPM_K17_31\\KCPM_DotCover\\KCPM_DotCover.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

@@ -62,8 +62,8 @@ namespace KCPM_DotCover.Repositories
         public Note UpdateNotes(Note Notes, int id)
         {
             var notes = _dbcontext.Notes.Find(id);
-            notes.Description = notes.Description;
-            notes.Title = notes.Title;
+            notes.Description = Notes.Description;
+            notes.Title = Notes.Title;
             _dbcontext.Update(notes);
 
             return notes;

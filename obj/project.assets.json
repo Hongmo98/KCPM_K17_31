@@ -8448,11 +8448,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HONGMO\\source\\repos\\KCPM_DotCover\\KCPM_DotCover\\KCPM_DotCover.csproj",
+      "projectUniqueName": "D:\\FIle\\KCPM\\KCPM_K17_31\\KCPM_DotCover\\KCPM_DotCover.csproj",
       "projectName": "KCPM_DotCover",
-      "projectPath": "C:\\Users\\HONGMO\\source\\repos\\KCPM_DotCover\\KCPM_DotCover\\KCPM_DotCover.csproj",
+      "projectPath": "D:\\FIle\\KCPM\\KCPM_K17_31\\KCPM_DotCover\\KCPM_DotCover.csproj",
       "packagesPath": "C:\\Users\\HONGMO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HONGMO\\source\\repos\\KCPM_DotCover\\KCPM_DotCover\\obj\\",
+      "outputPath": "D:\\FIle\\KCPM\\KCPM_K17_31\\KCPM_DotCover\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
